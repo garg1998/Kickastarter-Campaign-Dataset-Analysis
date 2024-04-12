@@ -8,10 +8,10 @@ popular product categories, and other factors influencing project success.
 My objective is to optimize the overall success and sustainability of Kickstarter as a crowdfunding platform by guiding creators in setting realistic funding goals,
 enhancing backer engagement, expanding project reach globally, and improving the success rates of diverse projects.
 
-# Analytical Questions
+## Analytical Questions
 Success Rate Over Time:
 
-## How has the success rate of Kickstarter projects evolved over five years?
+How has the success rate of Kickstarter projects evolved over five years?
 Are there certain months or seasons when projects are more likely to succeed?
 Is there an optimal campaign duration for different categories?
 Investigate whether the day of the week influences project success.
