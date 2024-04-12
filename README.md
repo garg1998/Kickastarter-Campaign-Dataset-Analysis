@@ -11,17 +11,20 @@ enhancing backer engagement, expanding project reach globally, and improving the
 ## Analytical Questions
 Success Rate Over Time:
 
-How has the success rate of Kickstarter projects evolved over five years?
-Are there certain months or seasons when projects are more likely to succeed?
-Is there an optimal campaign duration for different categories?
-Investigate whether the day of the week influences project success.
+* How has the success rate of Kickstarter projects evolved over five years?
+* Are there certain months or seasons when projects are more likely to succeed?
+* Is there an optimal campaign duration for different categories?
+* Investigate whether the day of the week influences project success.
+
 Category and Main Category Analysis:
+* Which categories and main categories have the highest success rates?
+* Analyze the distribution of successful and failed projects across different categories.
 
-Which categories and main categories have the highest success rates?
-Analyze the distribution of successful and failed projects across different categories.
 Goal Amount Analysis:
+* How much are backers willing to spend per project per category?
+* Is there an optimal range for goal amounts that maximizes success?
+* Analyze the relationship between goal amount and project success.
 
-How much are backers willing to spend per project per category?
-Is there an optimal range for goal amounts that maximizes success?
-Analyze the relationship between goal amount and project success.
-Geographical Analysis: -How have the countries been performing over years in terms of projects on the platform? -Which countries have the highest success rates for Kickstarter projects?
+Geographical Analysis: 
+* How have the countries been performing over the years in terms of projects on the platform?
+* Which countries have the highest success rates for Kickstarter projects?
