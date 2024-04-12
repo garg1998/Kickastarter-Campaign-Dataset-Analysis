@@ -3,6 +3,7 @@ The dataset provides comprehensive information on Kickstarter projects, encompas
 subcategories, country of origin, and financial aspects like funding goals, pledged amounts, and project success. Additionally, 
 it includes chronological data, specifying the campaign's start and end dates.This dataset serves as a valuable resource for gaining insights into optimal funding goals, 
 popular product categories, and other factors influencing project success.
+link: https://www.kaggle.com/datasets/sripaadsrinivasan/kickstarter-campaigns-dataset
 
 # Business Objective
 My objective is to optimize the overall success and sustainability of Kickstarter as a crowdfunding platform by guiding creators in setting realistic funding goals,
